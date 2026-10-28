@@ -1,8 +1,7 @@
-# Photorer — сборки для Mac
+# Photorer — Mac builds
 
-Здесь лежат готовые версии Photorer: программы для быстрого отбора фото на Mac.
-Код находится в закрытом репозитории.
+Releases of Photorer, the fast first pass for photographers on Mac. The source code lives in a private repository.
 
-**Скачать последнюю версию:** [Photorer.zip](https://github.com/eugenegl/photorer-releases/releases/latest/download/Photorer.zip)
+**Download the latest version:** [Photorer.dmg](https://github.com/eugenegl/photorer-releases/releases/latest/download/Photorer.dmg) — open it and drag Photorer to Applications.
 
-Требования: Mac на Apple Silicon, macOS 15 или новее. Установленный Photorer обновляется сам.
+Requires a Mac with Apple silicon and macOS 15 or later. Photorer updates itself.
